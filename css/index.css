@@ -1,0 +1,13 @@
+header{
+    background-image: url(../img/heder-fon.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.facebook-logo{
+    width: 40px;
+}
+.navigation{
+    display: flex;
+    justify-content:space-evenly;
+}
